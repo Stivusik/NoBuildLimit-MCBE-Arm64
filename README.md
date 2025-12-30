@@ -1,6 +1,3 @@
-# NoBuildLimit-MCBE-Arm64
-Signatures for removing height limit for android arm64
-
 > For LiteLDev, OpenMCBE and **any** of their subcompanies/suborganizations is not allowed to use this product for their purposes in any way.
 
 ### 1.21.94-26.0.25:
