@@ -44,4 +44,5 @@ Patch: ```E8 13 00 F9 08 00 A1 52```
 
 ### 26.0.28-26.0.29:
 #### The end:
-`... decompiling libminecraftpe.so`
+Original: ```E8 1B 00 F9 08 20 A0 52```<br>
+Patch: ```E8 1B 00 F9 08 00 A1 52```
