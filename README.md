@@ -39,3 +39,10 @@ Patch: ```E8 0B 00 F9 08 00 A1 52```
 #### The end:
 Original: ```E8 1? 00 F9 08 20 A0 52```<br>
 Patch: ```E8 1? 00 F9 08 00 A1 52```
+
+——————————————————————————————————————————————————
+
+### Idk, for what version is this sig but it is working with 26.20.24:
+#### Nether:
+Original: ```09 2B 40 F9 08 10 E0 F2```<br>
+Patch: ```09 2B 40 F9 08 00 E1 F2```
